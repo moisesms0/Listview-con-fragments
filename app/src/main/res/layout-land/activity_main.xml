@@ -8,8 +8,8 @@
 
     <FrameLayout
         android:id="@+id/contenedor1"
-        android:layout_width="390dp"
-        android:layout_height="466dp"
+        android:layout_width="375dp"
+        android:layout_height="388dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -21,14 +21,13 @@
 
     <FrameLayout
         android:id="@+id/contenedor2"
-        android:layout_width="match_parent"
-        android:layout_height="321dp"
+        android:layout_width="409dp"
+        android:layout_height="270dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0">
+        app:layout_constraintTop_toTopOf="parent">
 
     </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
